@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "FUml/9z9bPBDYeMqTU4oe38vgQDAaO8EH6XpbXhS1dMiktRavFRDMksAOCb5RL544RDzo1liTop5lrYk/mLyBQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Automation\\FirstC#AutomationProject\\MyTestFramework\\MyTestFramework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabau\\.nuget\\packages\\microsoft.codecoverage\\17.10.0-preview-24080-01\\microsoft.codecoverage.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0-preview-24080-01\\microsoft.net.test.sdk.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0-preview-24080-01\\microsoft.testplatform.objectmodel.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0-preview-24080-01\\microsoft.testplatform.testhost.17.10.0-preview-24080-01.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\selenium.support\\4.20.0\\selenium.support.4.20.0.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\selenium.webdriver\\4.20.0\\selenium.webdriver.4.20.0.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\selenium.webdriver.chromedriver\\124.0.6367.20700\\selenium.webdriver.chromedriver.124.0.6367.20700.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\sabau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
