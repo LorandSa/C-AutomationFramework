@@ -104,3 +104,4 @@ D:\Projects\Automation\FirstC#AutomationProject\MyTestFramework\bin\Debug\net7.0
 D:\Projects\Automation\FirstC#AutomationProject\MyTestFramework\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 d:\Projects\Automation\FirstC#AutomationProject\MyTestFramework\obj\Debug\net7.0\MyTestFr.5ACA7A0D.Up2Date
 D:\Projects\Automation\FirstC#AutomationProject\MyTestFramework\bin\Debug\net7.0\RestSharp.dll
+d:\Projects\Automation\FirstC#AutomationProject\MyTestFramework\obj\Debug\net7.0\MyTestFramework.sourcelink.json
